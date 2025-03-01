@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nabila-qx/static/css/main.01706d48.css",
+    "main.js": "/nabila-qx/static/js/main.3691fba1.js",
+    "static/media/cont2.PNG": "/nabila-qx/static/media/cont2.757055440833dd8ab808.PNG",
+    "static/media/ac2.png": "/nabila-qx/static/media/ac2.96a7795697b1bd5098e3.png",
+    "static/media/aaw2.png": "/nabila-qx/static/media/aaw2.67f22e36215d77223b88.png",
+    "static/media/NabilaAfsanaResume.pdf": "/nabila-qx/static/media/NabilaAfsanaResume.489e33d64348cd67fd3f.pdf",
+    "static/media/me0.png": "/nabila-qx/static/media/me0.b5340ef540be33628c92.png",
+    "static/media/al2.PNG": "/nabila-qx/static/media/al2.a12507d98cf9d57a0a19.PNG",
+    "static/media/me8.png": "/nabila-qx/static/media/me8.4511884dd9a23f1cb68e.png",
+    "static/media/aj2.png": "/nabila-qx/static/media/aj2.4ee801a644cdf5b04a20.png",
+    "static/media/kn2.png": "/nabila-qx/static/media/kn2.6ba6114be8469bcb850e.png",
+    "index.html": "/nabila-qx/index.html",
+    "main.01706d48.css.map": "/nabila-qx/static/css/main.01706d48.css.map",
+    "main.3691fba1.js.map": "/nabila-qx/static/js/main.3691fba1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01706d48.css",
+    "static/js/main.3691fba1.js"
+  ]
+}
