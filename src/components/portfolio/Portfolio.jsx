@@ -1,11 +1,12 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/kn2.png'
-import IMG2 from '../../assets/ac2.png'
 import IMG3 from '../../assets/aj2.png'
-import IMG4 from '../../assets/aaw2.png'
+import IMG4 from '../../assets/aa3.png'
 import IMG5 from '../../assets/al2.PNG'
 import IMG6 from '../../assets/cont2.PNG'
+import IMG1 from '../../assets/aa1.png'
+import IMG2 from '../../assets/aa2.png'
+import IMG7 from '../../assets/ac2.png'
 
 // DO NOT USE THE IMAGES IN PRODUCTION
 
@@ -13,20 +14,20 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Know Your Neighbour Project',
-    para: 'A website application that provides users with information about their local neighborhood',
-    soft: '#React #Bootstrap #Axios #Spring Boot #Spring Security #OAuth2 #MySQL',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Reach Accountant',
+    para: 'The Only Accounting Software Which Can Run Your Business End-to-end',
+    soft: '#HTML #Bootstrap #JavaScript #PHP #Figma',
+    github: '',
+    demo: 'https://www.reachaccountant.com/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'ABC Cars Portal Project',
-    para: 'A website application that offers a convenient marketplace for buying and selling used cars',
-    soft: '#Bootstrap #Spring Boot #Spring Security #JSP #MySQL',
+    title: 'Zeppay',
+    para: 'Automated Patient Payment Solutions Can Save You Time & Money ',
+    soft: '#HTML #Bootstrap #JavaScript #PHP #Figma',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'http://www.zeppay.com/en-us/'
   },
   {
     id: 3,
@@ -34,26 +35,26 @@ const data = [
     title: 'ABC Jobs Portal Project',
     para: 'A website application that allows user find job and apply for job opportuinites',
     soft: '#Bootstrap #SpringMVC #JSP #MySQL',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    github: '',
+    demo: ''
   },
   {
     id: 4,
     image: IMG4,
-    title: 'AAA Web Solutions Project',
-    para: 'A website application that provides all types of Hosting services',
-    soft: '#Liferay #MySQL',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress'
+    title: 'Kambaii Health',
+    para: 'Kambaii Health provided comprehensive healthcare services',
+    soft: '#Manual Testing #Test Case #Bug Report #Bug Trucking',
+    github: '',
+    demo: ''
   },
   {
     id: 5,
-    image: IMG5,
-    title: 'ABC Learning Center Project',
-    para: 'A website dedicated that conducts courses incuding Front-end and Back-end Web development.',
-    soft: '#HTML #CSSS #JavaScript',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    image: IMG7,
+    title: 'ABC Cars Portal Project',
+    para: 'A website application that offers a convenient marketplace for buying and selling used cars',
+    soft: '#Bootstrap #Spring Boot #Spring Security #JSP #MySQL',
+    github: '',
+    demo: ''
   },
   {
     id: 6,
@@ -61,8 +62,8 @@ const data = [
     title: 'Wordpress Content Management',
     para: 'Website name: www.coderclick.com',
     soft: '#keyword research  #content management #SEO',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    github: '',
+    demo: ''
   }
 ]
 
